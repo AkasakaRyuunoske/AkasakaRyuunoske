@@ -6,9 +6,4 @@
     <img src="F00D_hxVnNY.jpg" alt="image">
 </div>
 
->"Воля может и должна быть предметом гордости гораздо больше, нежели талант.
->Если талант — это развитие природных склонностей, 
->то твёрдая воля — это ежеминутно одерживаемая победа над инстинктами,
->над влечениями, которые воля обуздывает и подавляет, над препятствиями
->и преградами, которые она осиливает, над всяческими трудностями,
->которые она героически преодолевает. " (Оноре де Бальзак)
+>The will can and should be a greater source of pride than talent. If talent is the development of natural inclinations, then a firm will is the minute-by-minute victory over instincts, over urges which the will restrains and suppresses, over obstacles and challenges which it overcomes, over all kinds of difficulties which it heroically overcomes.
