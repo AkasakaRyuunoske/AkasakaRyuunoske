@@ -10,9 +10,6 @@
 
 <br>
 
-<h1>Some stats:</h1>
-
-
 <table>
   <tr>
     <td>
