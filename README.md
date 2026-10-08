@@ -17,5 +17,7 @@
     </td>
     <td>
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AkasakaRyuunoske&layout=compact&langs_count=6&theme=tokyonight">
+      <img src="https://streak-stats.demolab.com?user=AkasakaRyuunoske&theme=tokyonight&hide_border=true&timezone=%2B02%3A00">
     </td>
 </table>
+
